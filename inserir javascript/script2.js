@@ -1,0 +1,1 @@
+console.log("Esse é o javascript 2 no fim do body");
